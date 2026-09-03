@@ -1,0 +1,13 @@
+.DS_Store
+**/.DS_Store
+
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+frontend/node_modules/
+backend/app/service/core/rag/res/deepdoc/.cache/
